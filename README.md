@@ -8,6 +8,6 @@ $ node server.js
 
 
 # Visit http://localhost:5000
-MongoDB
+MongoDB :
 Open "config/keys.js" and add your username, password and database name of your Atlas database.
 
