@@ -1,6 +1,6 @@
 # Collaborative-Writing-Tool
 
-this is writing tool which uses registration and authorization of a user with(using) Node.js, Express, Passport, Mongoose, EJS and some other packages.
+This is writing tool which uses registration and authorization of a user with(using) Node.js, Express, Passport, Mongoose, EJS and some other packages.
 
 Usage : Open cmd or powershell or any other terminal app
 $ npm i express bcryptjs passport passport-local ejs express-ejs-layouts mongoose connect-flash express-session
